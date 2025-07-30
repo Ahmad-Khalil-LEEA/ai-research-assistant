@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pdfplumber
+PyPDF2
+openai
+faiss-cpu
+python-dotenv
+aiofiles
